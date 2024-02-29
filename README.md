@@ -24,18 +24,18 @@ Here are some ideas to get you started:
 
 
 ## Social
-![GitHub followers](https://img.shields.io/github/followers/giuseppecaferra?style=social)
+![GitHub followers](https://img.shields.io/github/followers/gcaferra?style=social)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/GCaferra?style=social)](https://twitter.com/Gcaferra)
 
 
 ## Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=giuseppecaferra)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gcaferra)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Some Stats
 
-![jguadagno](https://github-readme-stats.vercel.app/api/top-langs?username=giuseppecaferra&show_icons=true&locale=en&layout=compact "Language Stats - GiuseppeCaferra")
+![jguadagno](https://github-readme-stats.vercel.app/api/top-langs?username=gcaferra&show_icons=true&locale=en&layout=compact "Language Stats - GiuseppeCaferra")
 
-![jguadagno](https://github-readme-stats.vercel.app/api?username=giuseppecaferra&show_icons=true&locale=en "GitHub - GiuseppeCaferra")
+![jguadagno](https://github-readme-stats.vercel.app/api?username=gcaferra&show_icons=true&locale=en "GitHub - GiuseppeCaferra")
