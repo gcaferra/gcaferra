@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Blazor, TailwindCss, Java
 - 🤔 I’m looking for help with Side projects
 - 💬 Ask me about Azure, Microservices, TDD
-- 📫 How to reach me: [g.caferra@gmail.com](mailto:g.caferra@gmail.com)
+- 📫 How to reach me: [g.caferra@icloud.com](mailto:g.caferra@icloud.com)
 - ⚡ Fun fact: I write better code while drunk 
 
 
