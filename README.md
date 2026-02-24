@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Blazor, dotnet 8, various distributed pattern
-- 🌱 I’m currently learning Blazor, TailwindCss, Java
+- 🔭 I’m currently working on dotnet 8 and various distributed pattern
+- 🌱 I’m currently learning F#, Java
 - 🤔 I’m looking for help with Side projects
 - 💬 Ask me about Azure, Microservices, TDD
-- 📫 How to reach me: [g.caferra@icloud.com](mailto:g.caferra@icloud.com)
+- 📫 How to reach me: [g.caferra@gmail.com](mailto:g.caferra@gmail.com)
 - ⚡ Fun fact: I write better code while drunk 
 
 
