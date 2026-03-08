@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning F#, Java
 - 🤔 I’m looking for help with Side projects
 - 💬 Ask me about Azure, Microservices, TDD
-- 📫 How to reach me: [g.caferra@gmail.com](mailto:g.caferra@gmail.com)
+- 📫 How to reach me: [g.caerra@icloud.com](mailto:g.caerra@icloud.com)
 - ⚡ Fun fact: I write better code while drunk 
 
 
