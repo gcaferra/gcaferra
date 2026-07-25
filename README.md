@@ -4,7 +4,7 @@
 
 ### Software Architect · Principal Engineer · 25+ years shipping .NET
 
-I design and build distributed systems on Azure, care a little too much about clean architecture, DDD and functional-style C#, and spend a suspicious amount of time making serializers and caches go faster. When I'm not architecting, I'm mentoring engineers into senior and lead roles — or breaking something new in my homelab.
+I design and build distributed systems on Azure, care a little too much about clean architecture, DDD and functional-style C#, and spend a suspicious amount of time making systems go faster. When I'm not architecting, I'm mentoring engineers into senior and lead roles — or breaking something new in my homelab.
 
 <img src="https://komarev.com/ghpvc/?username=gcaferra&style=flat-square&color=blue" alt="Profile views" />
 
@@ -53,11 +53,14 @@ I design and build distributed systems on Azure, care a little too much about cl
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gcaferra&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Giuseppe's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcaferra&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gcaferra&theme=github_dark" alt="Profile details" />
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gcaferra&theme=github_dark" alt="Top languages by repo" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gcaferra&theme=github_dark" alt="Most committed language" />
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gcaferra&theme=github_dark" alt="Stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gcaferra&theme=github_dark&utcOffset=1" alt="Productive time" />
 
 <img src="https://streak-stats.demolab.com?user=gcaferra&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=gcaferra&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
 
 </div>
