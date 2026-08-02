@@ -32,7 +32,7 @@ I design and build distributed systems on Azure, care a little too much about cl
 
 - 🔭 Building distributed patterns and LLM integration on **.NET 8** (Semantic Kernel, Azure AI Foundry)
 - 🧩 Deep into **clean architecture, DDD, TDD**, and railway-oriented functional C#
-- ⚡ Chasing performance: caching, serialization, query tuning
+- ⚡ Chasing performance with methodical approach and simple code
 - 🌱 Learning **F#** and sharpening my **Java**
 - 🧑‍🏫 Ask me about **Azure, microservices, TDD** — and mentoring is my thing
 - 🖥️ Serial self-hoster: Docker + Tailscale homelab named after a Matrix city
